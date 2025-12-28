@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter, AWS**
 
-- 👯 I’m looking to collaborate on **Mpay**
-
-- 🤝 I’m looking for help with **Vfibernet**
-
 - 📫 How to reach me **https://www.linkedin.com/in/rakshitha-marthaje/**
 
 - ⚡ Fun fact **Im an Alien**
