@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxitha" alt="raxitha" /></a> </p>
 
-- 🔭 I’m currently working on **Ezyworx**
+- 🔭 I’m currently working on **Flutter Apps**
 
 - 🌱 I’m currently learning **Flutter, AWS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rakshitha-marthaje/**
 
-- ⚡ Fun fact **Im an Alien**
+- ⚡ Fun fact **Im a ROBOT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
